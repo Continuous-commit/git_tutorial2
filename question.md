@@ -6,3 +6,4 @@
 終わり
 git commit --amend
 git merge
+コンフリクト
