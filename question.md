@@ -5,3 +5,5 @@
 仮説
 終わり
 git commit --amend
+git merge
+conflict
